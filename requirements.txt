@@ -1,0 +1,9 @@
+# TapControl dependencies (Python 3.11+)
+PySide6>=6.6
+sounddevice>=0.4.6
+numpy>=1.26
+scipy>=1.11
+pywin32>=306          # Windows API access
+
+# Testing uses the stdlib (unittest). Optional tools:
+# pyinstaller>=6.0    # for the standalone .exe build
