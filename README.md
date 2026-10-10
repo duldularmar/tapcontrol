@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TapControl
 
 Control your Windows 11 laptop by **tapping the desk**. TapControl listens
@@ -177,3 +178,6 @@ Note:.first run on another PC still needs mic access allowed in
 Windows shows a microphone permission prompt the first time the app opens an
 input stream. If you declined it, re-enable at
 **Settings → Privacy & security → Microphone**.
+=======
+# tapcontrol
+>>>>>>> fba9bcfcd81aff4e6304618ecb2a2463ca80bb85
